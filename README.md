@@ -1,1 +1,5 @@
 # projet-tpDW
+# Les membres sont:
+# BOUDRAA MOHAMED ANIS
+# SADI DABER YANIS
+# REZZOUG WALID
